@@ -4,8 +4,11 @@
 ``MTA Bus Tracker`` is an attempt to create an animation that displays a city bus location in real-time via an API to source real-time Bostom MBTA buses. The goal was to refactor a starter kit code created by MIT x PRO using NYC's live bus status. However, the animation was applied to Boston MBTA buses instead due to complexity of the NYC data.
  <br> </br>
 ## How to Run
-You must download all files from this repository to your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser).
- <br> </br>
+•	You must download all files from this repository to your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser). <br>
+•	You will also need to request an API key to the weather API, which has rate limiting of 60 requests per minute before being denied.
+•	In the <br>mapanimation.js<br> file where the code says 'replace w your API key', replace the text with your personalized API key.
+
+<br> </br>
 This project includes 3 files: <br> 
 •	<b>Index.html</b>: displays the html site where you can see the map bus tracker code visually <br>
 •	<b>mapanimation.js</b>: includes the javascript programmed to run the animation that highlights the stops on the map <br>
