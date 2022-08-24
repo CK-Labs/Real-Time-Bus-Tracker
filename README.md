@@ -13,13 +13,13 @@ This project includes 3 files:
 
 ## Roadmap for Future Improvements
 Future improvements for this project include:
-•	Customize the map to fit NYC's concentrated traffic instead
-  -Create flags to indicate delays/early departures
-  -Indicate busy-ness on the bus
-  -Change the color of each bus stop the bus has passed by
-•	Create several functions, such as:
-  -Send alerts to email and phone
-  -Send notification to the screen
+•	Customize the map to fit NYC's concentrated traffic instead <br>
+  -Create flags to indicate delays/early departures <br>
+  -Indicate busy-ness on the bus  <br>
+  -Change the color of each bus stop the bus has passed by  <br>
+•	Create several functions, such as: <br>
+  -Send alerts to email and phone <br>
+  -Send notification to the screen <br>
   
 ## Credit
 MIT x PRO Full Stack Engineer Course which provided the starter kit to code this exercise
