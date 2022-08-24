@@ -13,6 +13,7 @@ This project includes 3 files: <br>
  <br>
 ## Roadmap for Future Improvements
 Future improvements for this project include: <br>
+•	Fix bugs in the github version of this code - _currently triggers 404 whereas the code works on my localdrive_ <br>
 •	Customize the map to fit NYC's concentrated traffic instead <br>
   -Create flags to indicate delays/early departures <br>
   -Indicate busy-ness on the bus  <br>
