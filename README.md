@@ -1,7 +1,7 @@
 # NYC MTA Real Time Bus Tracking  (an MITxPRO Pacman Exercise)
 ## Project Title: ``MTA Bus Tracker``
 ## Description: 
-``MTA Bus Tracker`` is a failed attempt at an animation that displays a city bus location in real-time via an API to source real-time Bostom MBTA buses. This activity was designed to refactor a starter kit code created by MIT x PRO to apply to a target city's public API.
+``MTA Bus Tracker`` is an attempt to create an animation that displays a city bus location in real-time via an API to source real-time Bostom MBTA buses. The goal was to refactor a starter kit code created by MIT x PRO using NYC's live bus status. However, the animation was applied to Boston MBTA buses instead due to complexity of the NYC data.
 
 ## How to Run
 You must download all files from this repository to your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser).
