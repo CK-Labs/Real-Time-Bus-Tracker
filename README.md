@@ -12,7 +12,6 @@ This project includes 3 files: <br>
 •	<b>Index.html</b>: displays the html site where you can see the map bus tracker code visually <br>
 •	<b>mapanimation.js</b>: includes the javascript programmed to run the animation that highlights the stops on the map <br>
 •	<b>styles.css</b>: the styles for the map of Boston between Harvard and MIT <br>
- <br>
 
 ## How to obtain an API key - _credit to the MITxPRO program for this set of instructions_
 1. Create an Account through https://openweathermap.org/ <br>
