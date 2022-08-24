@@ -26,8 +26,9 @@ This project includes 3 files: <br>
 •	You will be prompted to disclose how and where you will use the API <br>
 •	Leave the Company field blank <br>
 •	For the Purpose field, select “Education/Science” from the dropdown. <br>
-•	Click the “Save” button.
-•	To access your API key go to https://home.openweathermap.org/api_keys. Copy the key, it should look something like 125a227a8361eb6f2e52482b227a46464
+•	Click the “Save” button.<br>
+2. To access your API key go to https://home.openweathermap.org/api_keys. <br>
+3. Copy the key, it should look something like _125a227a8361eb6f2e52482b227a46464_. <br>
 
 ## Roadmap for Future Improvements
 Future improvements for this project include: <br>
