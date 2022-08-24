@@ -6,10 +6,8 @@
 ## How to Run
 •	You must download all files from this repository to your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser). <br>
 •	You will also need to request an API key to the weather API, which has rate limiting of 60 requests per minute before being denied. <br>
-•	In the <b>mapanimation.js<b> file where the code says 'replace w your API key', replace the text with your personalized API key.<br>
- 
-
-<br> </br>
+•	In the <b>mapanimation.js</b> file where the code says 'replace w your API key', replace the text with your personalized API key.<br>
+</br>
 This project includes 3 files: <br> 
 •	<b>Index.html</b>: displays the html site where you can see the map bus tracker code visually <br>
 •	<b>mapanimation.js</b>: includes the javascript programmed to run the animation that highlights the stops on the map <br>
