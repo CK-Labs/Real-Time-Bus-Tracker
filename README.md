@@ -5,8 +5,9 @@
  <br> </br>
 ## How to Run
 •	You must download all files from this repository to your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser). <br>
-•	You will also need to request an API key to the weather API, which has rate limiting of 60 requests per minute before being denied.
-•	In the <br>mapanimation.js<br> file where the code says 'replace w your API key', replace the text with your personalized API key.
+•	You will also need to request an API key to the weather API, which has rate limiting of 60 requests per minute before being denied. <br>
+•	In the <b>mapanimation.js<b> file where the code says 'replace w your API key', replace the text with your personalized API key.<br>
+ 
 
 <br> </br>
 This project includes 3 files: <br> 
@@ -14,6 +15,20 @@ This project includes 3 files: <br>
 •	<b>mapanimation.js</b>: includes the javascript programmed to run the animation that highlights the stops on the map <br>
 •	<b>styles.css</b>: the styles for the map of Boston between Harvard and MIT <br>
  <br>
+
+## How to obtain an API key - _credit to the MITxPRO program for this set of instructions_
+1. Create an Account through https://openweathermap.org/ <br>
+•	On the right side of the navigation bar, click “Sign In” and create an account. <br>
+•	Enter a Username, your Email, and a password.  <br>
+•	Check “I am 16 years old and over” and “I agree with Privacy Policy…” <br>
+•	Check “I am not a robot” <br>
+•	Click the “Create Account” button <br>
+•	You will be prompted to disclose how and where you will use the API <br>
+•	Leave the Company field blank <br>
+•	For the Purpose field, select “Education/Science” from the dropdown. <br>
+•	Click the “Save” button.
+•	To access your API key go to https://home.openweathermap.org/api_keys. Copy the key, it should look something like 125a227a8361eb6f2e52482b227a46464
+
 ## Roadmap for Future Improvements
 Future improvements for this project include: <br>
 •	Fix bugs in the github version of this code - _currently triggers 404 whereas the code works on my localdrive_ <br>
